@@ -3,6 +3,16 @@ Data & Outfit scraper for the [Mahjong Soul Wiki](https://mahjongsoul.club/chara
 Wanted to do something with TypeScript so i made this :>  
 
 ## Usage
+Using local images:  
+Copy [localdata.json](https://github.com/Joshimello/MahjongSoul-WikiScrape/blob/main/out/localdata.json) and local files, icons and outfits folder, to where ever you need.
+
+```javascript
+const localdata = JSON.parse(fs.readFileSync('localdata.json', 'utf8'))
+console.log(localdata['AnjuSuzumiya'].outfit)
+// ["outfits/AnjuSuzumiya/0.png", ...]
+```
+
+Using remote images:
 Just copy the [data.json](https://github.com/Joshimello/MahjongSoul-WikiScrape/blob/main/out/data.json) file to your project and use it however you want.
 
 Example usage:
@@ -19,7 +29,7 @@ console.log(data['AnjuSuzumiya'].jp)
 
 ## To-Do
 - male info(?)
-- scrape images.
+- ~~scrape images.~~
 
 ## Contribute
 Always welcomed to improve anything or add suggestions!  
