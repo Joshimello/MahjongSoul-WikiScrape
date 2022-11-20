@@ -1,0 +1,672 @@
+{
+    "TokiOnjoji": {
+        "jp": "園城寺怜",
+        "icon": "icons/TokiOnjoji.png",
+        "age": "高3",
+        "bday": "5/10",
+        "height": "154cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "outfits/TokiOnjoji/0.png",
+            "outfits/TokiOnjoji/1.png",
+            "outfits/TokiOnjoji/2.png"
+        ]
+    },
+    "AkoAtarashi": {
+        "jp": "新子憧",
+        "icon": "icons/AkoAtarashi.png",
+        "age": "高1",
+        "bday": "5/17",
+        "height": "149cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "outfits/AkoAtarashi/0.png",
+            "outfits/AkoAtarashi/1.png",
+            "outfits/AkoAtarashi/2.png"
+        ]
+    },
+    "MihokoFukuji": {
+        "jp": "福路美穂子",
+        "icon": "icons/MihokoFukuji.png",
+        "age": "高3",
+        "bday": "9/24",
+        "height": "158cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "outfits/MihokoFukuji/0.png",
+            "outfits/MihokoFukuji/1.png",
+            "outfits/MihokoFukuji/2.png"
+        ]
+    },
+    "HisaTakei": {
+        "jp": "竹井久",
+        "icon": "icons/HisaTakei.png",
+        "age": "高3",
+        "bday": "11/13",
+        "height": "164cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "outfits/HisaTakei/0.png",
+            "outfits/HisaTakei/1.png",
+            "outfits/HisaTakei/2.png"
+        ]
+    },
+    "LilyKitahara": {
+        "jp": "北原リリィ",
+        "icon": "icons/LilyKitahara.png",
+        "age": "27歳",
+        "bday": "1/31",
+        "height": "163cm",
+        "date": "2022-08-10",
+        "color": "#406EAA",
+        "outfit": [
+            "outfits/LilyKitahara/0.png",
+            "outfits/LilyKitahara/1.png"
+        ]
+    },
+    "Yuzu": {
+        "jp": "ゆず",
+        "icon": "icons/Yuzu.png",
+        "age": "18歳",
+        "bday": "8/21",
+        "height": "141cm",
+        "date": "2022-06-22",
+        "color": "#9CC89B",
+        "outfit": [
+            "outfits/Yuzu/0.png",
+            "outfits/Yuzu/1.png"
+        ]
+    },
+    "KeiShirogane": {
+        "jp": "白銀圭",
+        "icon": "icons/KeiShirogane.png",
+        "age": "中2",
+        "bday": "8/1",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "outfits/KeiShirogane/0.png",
+            "outfits/KeiShirogane/1.png",
+            "outfits/KeiShirogane/2.png"
+        ]
+    },
+    "AiHayasaka": {
+        "jp": "早坂愛",
+        "icon": "icons/AiHayasaka.png",
+        "age": "高2",
+        "bday": "4/2",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "outfits/AiHayasaka/0.png",
+            "outfits/AiHayasaka/1.png",
+            "outfits/AiHayasaka/2.png"
+        ]
+    },
+    "KaguyaShinomiya": {
+        "jp": "四宮かぐや",
+        "icon": "icons/KaguyaShinomiya.png",
+        "age": "高2",
+        "bday": "1/1",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "outfits/KaguyaShinomiya/0.png",
+            "outfits/KaguyaShinomiya/1.png",
+            "outfits/KaguyaShinomiya/2.png"
+        ]
+    },
+    "NanahaOnodera": {
+        "jp": "小野寺七羽",
+        "icon": "icons/NanahaOnodera.png",
+        "age": "19歳",
+        "bday": "7/20",
+        "height": "166cm",
+        "date": "2022-01-26",
+        "color": "#5D95B6",
+        "outfit": [
+            "outfits/NanahaOnodera/0.png",
+            "outfits/NanahaOnodera/1.png"
+        ]
+    },
+    "KazuhaSaionji": {
+        "jp": "西園寺一羽",
+        "icon": "icons/KazuhaSaionji.png",
+        "age": "23歳",
+        "bday": "11/22",
+        "height": "156cm",
+        "date": "2021-12-22",
+        "color": "#A2D5FD",
+        "outfit": [
+            "outfits/KazuhaSaionji/0.png",
+            "outfits/KazuhaSaionji/1.png"
+        ]
+    },
+    "AyakoMorikawa": {
+        "jp": "森川綾子",
+        "icon": "icons/AyakoMorikawa.png",
+        "age": "15歳",
+        "bday": "2/22",
+        "height": "150cm",
+        "date": "2021-08-26",
+        "color": "#8D86B2",
+        "outfit": [
+            "outfits/AyakoMorikawa/0.png",
+            "outfits/AyakoMorikawa/1.png",
+            "outfits/AyakoMorikawa/2.png"
+        ]
+    },
+    "HibikiHimekawa": {
+        "jp": "姫川響",
+        "icon": "icons/HibikiHimekawa.png",
+        "age": "16歳",
+        "bday": "5/26",
+        "height": "160cm",
+        "date": "2021-07-28",
+        "color": "#6B84CC",
+        "outfit": [
+            "outfits/HibikiHimekawa/0.png",
+            "outfits/HibikiHimekawa/1.png"
+        ]
+    },
+    "ReinaNanami": {
+        "jp": "七海礼奈",
+        "icon": "icons/ReinaNanami.png",
+        "age": "15歳",
+        "bday": "3/21",
+        "height": "153cm",
+        "date": "2021-05-26",
+        "color": "#6E7FB9",
+        "outfit": [
+            "outfits/ReinaNanami/0.png",
+            "outfits/ReinaNanami/1.png",
+            "outfits/ReinaNanami/2.png"
+        ]
+    },
+    "KirariMomobami": {
+        "jp": "桃喰綺羅莉",
+        "icon": "icons/KirariMomobami.png",
+        "age": "高3",
+        "bday": "",
+        "height": "166cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "outfits/KirariMomobami/0.png",
+            "outfits/KirariMomobami/1.png",
+            "outfits/KirariMomobami/2.png"
+        ]
+    },
+    "MidariIkishima": {
+        "jp": "生志摩妄",
+        "icon": "icons/MidariIkishima.png",
+        "age": "高2",
+        "bday": "",
+        "height": "170cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "outfits/MidariIkishima/0.png",
+            "outfits/MidariIkishima/1.png",
+            "outfits/MidariIkishima/2.png"
+        ]
+    },
+    "MarySaotome": {
+        "jp": "早乙女芽亜里",
+        "icon": "icons/MarySaotome.png",
+        "age": "高2",
+        "bday": "",
+        "height": "162cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "outfits/MarySaotome/0.png",
+            "outfits/MarySaotome/1.png",
+            "outfits/MarySaotome/2.png"
+        ]
+    },
+    "YumekoJabami": {
+        "jp": "蛇喰夢子",
+        "icon": "icons/YumekoJabami.png",
+        "age": "高2",
+        "bday": "",
+        "height": "166cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "outfits/YumekoJabami/0.png",
+            "outfits/YumekoJabami/1.png",
+            "outfits/YumekoJabami/2.png"
+        ]
+    },
+    "FuJi": {
+        "jp": "福姫",
+        "icon": "icons/FuJi.png",
+        "age": "不明",
+        "bday": "1/1",
+        "height": "160cm",
+        "date": "2021-02-06",
+        "color": "#A78ACF",
+        "outfit": [
+            "outfits/FuJi/0.png",
+            "outfits/FuJi/1.png",
+            "outfits/FuJi/2.png"
+        ]
+    },
+    "TeruMiyanaga": {
+        "jp": "宮永照",
+        "icon": "icons/TeruMiyanaga.png",
+        "age": "高3",
+        "bday": "2/18",
+        "height": "160cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "outfits/TeruMiyanaga/0.png",
+            "outfits/TeruMiyanaga/1.png",
+            "outfits/TeruMiyanaga/2.png",
+            "outfits/TeruMiyanaga/3.png"
+        ]
+    },
+    "KoromoAmae": {
+        "jp": "天江衣",
+        "icon": "icons/KoromoAmae.png",
+        "age": "高2",
+        "bday": "9/6",
+        "height": "127cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "outfits/KoromoAmae/0.png",
+            "outfits/KoromoAmae/1.png",
+            "outfits/KoromoAmae/2.png",
+            "outfits/KoromoAmae/3.png"
+        ]
+    },
+    "NodokaHaramura": {
+        "jp": "原村和",
+        "icon": "icons/NodokaHaramura.png",
+        "age": "高1",
+        "bday": "10/4",
+        "height": "154cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "outfits/NodokaHaramura/0.png",
+            "outfits/NodokaHaramura/1.png",
+            "outfits/NodokaHaramura/2.png",
+            "outfits/NodokaHaramura/3.png"
+        ]
+    },
+    "SakiMiyanaga": {
+        "jp": "宮永咲",
+        "icon": "icons/SakiMiyanaga.png",
+        "age": "高1",
+        "bday": "10/27",
+        "height": "155cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "outfits/SakiMiyanaga/0.png",
+            "outfits/SakiMiyanaga/1.png",
+            "outfits/SakiMiyanaga/2.png",
+            "outfits/SakiMiyanaga/3.png"
+        ]
+    },
+    "ChihoriTerasaki": {
+        "jp": "寺崎千穂理",
+        "icon": "icons/ChihoriTerasaki.png",
+        "age": "26歳",
+        "bday": "11/15",
+        "height": "167cm",
+        "date": "2020-11-19",
+        "color": "#9F6B44",
+        "outfit": [
+            "outfits/ChihoriTerasaki/0.png",
+            "outfits/ChihoriTerasaki/1.png",
+            "outfits/ChihoriTerasaki/2.png"
+        ]
+    },
+    "Eliisa": {
+        "jp": "エリサ",
+        "icon": "icons/Eliisa.png",
+        "age": "17歳",
+        "bday": "7/15",
+        "height": "162cm",
+        "date": "2020-11-19",
+        "color": "#7E9265",
+        "outfit": [
+            "outfits/Eliisa/0.png",
+            "outfits/Eliisa/1.png",
+            "outfits/Eliisa/2.png",
+            "outfits/Eliisa/3.png"
+        ]
+    },
+    "Kaguyahime": {
+        "jp": "かぐや姫",
+        "icon": "icons/Kaguyahime.png",
+        "age": "不明",
+        "bday": "6/18",
+        "height": "161cm",
+        "date": "2020-08-20",
+        "color": "#E44FBB",
+        "outfit": [
+            "outfits/Kaguyahime/0.png",
+            "outfits/Kaguyahime/1.png",
+            "outfits/Kaguyahime/2.png",
+            "outfits/Kaguyahime/3.png"
+        ]
+    },
+    "KiraraFujimoto": {
+        "jp": "藤本キララ",
+        "icon": "icons/KiraraFujimoto.png",
+        "age": "18歳",
+        "bday": "11/27",
+        "height": "164cm",
+        "date": "2020-08-20",
+        "color": "#EBBDB0",
+        "outfit": [
+            "outfits/KiraraFujimoto/0.png",
+            "outfits/KiraraFujimoto/1.png",
+            "outfits/KiraraFujimoto/2.png",
+            "outfits/KiraraFujimoto/3.png"
+        ]
+    },
+    "MomoHina": {
+        "jp": "雛桃",
+        "icon": "icons/MomoHina.png",
+        "age": "11歳",
+        "bday": "6/6",
+        "height": "133cm",
+        "date": "2020-06-24",
+        "color": "#BDCEF8",
+        "outfit": [
+            "outfits/MomoHina/0.png",
+            "outfits/MomoHina/1.png",
+            "outfits/MomoHina/2.png",
+            "outfits/MomoHina/3.png"
+        ]
+    },
+    "SawakoKitami": {
+        "jp": "北見紗和子",
+        "icon": "icons/SawakoKitami.png",
+        "age": "32歳",
+        "bday": "10/15",
+        "height": "160cm",
+        "date": "2020-04-25",
+        "color": "#BEB3B1",
+        "outfit": [
+            "outfits/SawakoKitami/0.png",
+            "outfits/SawakoKitami/1.png",
+            "outfits/SawakoKitami/2.png",
+            "outfits/SawakoKitami/3.png"
+        ]
+    },
+    "AnjuSuzumiya": {
+        "jp": "涼宮杏樹",
+        "icon": "icons/AnjuSuzumiya.png",
+        "age": "14歳",
+        "bday": "5/16",
+        "height": "148cm",
+        "date": "2019-12-30",
+        "color": "#DF92AB",
+        "outfit": [
+            "outfits/AnjuSuzumiya/0.png",
+            "outfits/AnjuSuzumiya/1.png",
+            "outfits/AnjuSuzumiya/2.png",
+            "outfits/AnjuSuzumiya/3.png"
+        ]
+    },
+    "HarunaIgarashi": {
+        "jp": "五十嵐陽菜",
+        "icon": "icons/HarunaIgarashi.png",
+        "age": "11歳",
+        "bday": "11/24",
+        "height": "134cm",
+        "date": "2019-12-30",
+        "color": "#BBF2F5",
+        "outfit": [
+            "outfits/HarunaIgarashi/0.png",
+            "outfits/HarunaIgarashi/1.png",
+            "outfits/HarunaIgarashi/2.png",
+            "outfits/HarunaIgarashi/3.png"
+        ]
+    },
+    "HinataTakanashi": {
+        "jp": "小鳥遊雛田",
+        "icon": "icons/HinataTakanashi.png",
+        "age": "20歳",
+        "bday": "6/28",
+        "height": "155cm",
+        "date": "2019-10-31",
+        "color": "#9F9AC4",
+        "outfit": [
+            "outfits/HinataTakanashi/0.png",
+            "outfits/HinataTakanashi/1.png",
+            "outfits/HinataTakanashi/2.png",
+            "outfits/HinataTakanashi/3.png",
+            "outfits/HinataTakanashi/4.png"
+        ]
+    },
+    "NanaShiraishi": {
+        "jp": "白石奈々",
+        "icon": "icons/NanaShiraishi.png",
+        "age": "17歳",
+        "bday": "5/31",
+        "height": "167cm",
+        "date": "2019-10-31",
+        "color": "#79B100",
+        "outfit": [
+            "outfits/NanaShiraishi/0.png",
+            "outfits/NanaShiraishi/1.png",
+            "outfits/NanaShiraishi/2.png"
+        ]
+    },
+    "HanaNinomiya": {
+        "jp": "二之宮花",
+        "icon": "icons/HanaNinomiya.png",
+        "age": "17歳",
+        "bday": "7/12",
+        "height": "155cm",
+        "date": "2019-08-15",
+        "color": "#B23E44",
+        "outfit": [
+            "outfits/HanaNinomiya/0.png",
+            "outfits/HanaNinomiya/1.png",
+            "outfits/HanaNinomiya/2.png",
+            "outfits/HanaNinomiya/3.png"
+        ]
+    },
+    "Sara": {
+        "jp": "サラ",
+        "icon": "icons/Sara.png",
+        "age": "19歳",
+        "bday": "9/25",
+        "height": "158cm",
+        "date": "2019-08-15",
+        "color": "#9B59B6",
+        "outfit": [
+            "outfits/Sara/0.png",
+            "outfits/Sara/1.png",
+            "outfits/Sara/2.png",
+            "outfits/Sara/3.png",
+            "outfits/Sara/4.png"
+        ]
+    },
+    "Keikumusume": {
+        "jp": "軽庫娘",
+        "icon": "icons/Keikumusume.png",
+        "age": "17歳",
+        "bday": "9/9",
+        "height": "159cm",
+        "date": "2019-08-15",
+        "color": "#2E70BA",
+        "outfit": [
+            "outfits/Keikumusume/0.png",
+            "outfits/Keikumusume/1.png",
+            "outfits/Keikumusume/2.png"
+        ]
+    },
+    "Kaavi": {
+        "jp": "カーヴィ",
+        "icon": "icons/Kaavi.png",
+        "age": "24歳",
+        "bday": "10/12",
+        "height": "165cm",
+        "date": "2019-05-31",
+        "color": "#A2837F",
+        "outfit": [
+            "outfits/Kaavi/0.png",
+            "outfits/Kaavi/1.png",
+            "outfits/Kaavi/2.png"
+        ]
+    },
+    "Xenia": {
+        "jp": "ジニア",
+        "icon": "icons/Xenia.png",
+        "age": "17歳",
+        "bday": "2/2",
+        "height": "158cm",
+        "date": "2019-05-31",
+        "color": "#B1A387",
+        "outfit": [
+            "outfits/Xenia/0.png",
+            "outfits/Xenia/1.png",
+            "outfits/Xenia/2.png",
+            "outfits/Xenia/3.png"
+        ]
+    },
+    "RiuKujou": {
+        "jp": "九条璃雨",
+        "icon": "icons/RiuKujou.png",
+        "age": "19歳",
+        "bday": "11/29",
+        "height": "161cm",
+        "date": "2019-04-25",
+        "color": "#FA5491",
+        "outfit": [
+            "outfits/RiuKujou/0.png",
+            "outfits/RiuKujou/1.png",
+            "outfits/RiuKujou/2.png",
+            "outfits/RiuKujou/3.png",
+            "outfits/RiuKujou/4.png"
+        ]
+    },
+    "YuiYagi": {
+        "jp": "八木唯",
+        "icon": "icons/YuiYagi.png",
+        "age": "19歳",
+        "bday": "9/7",
+        "height": "162cm",
+        "date": "2019-04-25",
+        "color": "#B6B55D",
+        "outfit": [
+            "outfits/YuiYagi/0.png",
+            "outfits/YuiYagi/1.png",
+            "outfits/YuiYagi/2.png",
+            "outfits/YuiYagi/3.png",
+            "outfits/YuiYagi/4.png",
+            "outfits/YuiYagi/5.png"
+        ]
+    },
+    "Nadeshiko": {
+        "jp": "撫子",
+        "icon": "icons/Nadeshiko.png",
+        "age": "28歳",
+        "bday": "8/14",
+        "height": "175cm",
+        "date": "2019-04-25",
+        "color": "#5D7AD0",
+        "outfit": [
+            "outfits/Nadeshiko/0.png",
+            "outfits/Nadeshiko/1.png",
+            "outfits/Nadeshiko/2.png",
+            "outfits/Nadeshiko/3.png"
+        ]
+    },
+    "MaiAihara": {
+        "jp": "相原舞",
+        "icon": "icons/MaiAihara.png",
+        "age": "18歳",
+        "bday": "6/26",
+        "height": "165cm",
+        "date": "2019-04-25",
+        "color": "#FF956E",
+        "outfit": [
+            "outfits/MaiAihara/0.png",
+            "outfits/MaiAihara/1.png",
+            "outfits/MaiAihara/2.png",
+            "outfits/MaiAihara/3.png",
+            "outfits/MaiAihara/4.png"
+        ]
+    },
+    "ChioriMikami": {
+        "jp": "三上千織",
+        "icon": "icons/ChioriMikami.png",
+        "age": "14歳",
+        "bday": "5/23",
+        "height": "143cm",
+        "date": "2019-04-25",
+        "color": "#F5D1AF",
+        "outfit": [
+            "outfits/ChioriMikami/0.png",
+            "outfits/ChioriMikami/1.png",
+            "outfits/ChioriMikami/2.png",
+            "outfits/ChioriMikami/3.png",
+            "outfits/ChioriMikami/4.png"
+        ]
+    },
+    "KanaFujita": {
+        "jp": "藤田佳奈",
+        "icon": "icons/KanaFujita.png",
+        "age": "17歳",
+        "bday": "4/27",
+        "height": "159cm",
+        "date": "2019-04-25",
+        "color": "#F1A4B2",
+        "outfit": [
+            "outfits/KanaFujita/0.png",
+            "outfits/KanaFujita/1.png",
+            "outfits/KanaFujita/2.png",
+            "outfits/KanaFujita/3.png"
+        ]
+    },
+    "MikiNikaidou": {
+        "jp": "二階堂美樹",
+        "icon": "icons/MikiNikaidou.png",
+        "age": "24歳",
+        "bday": "2/14",
+        "height": "168cm",
+        "date": "2019-04-25",
+        "color": "#B76EC2",
+        "outfit": [
+            "outfits/MikiNikaidou/0.png",
+            "outfits/MikiNikaidou/1.png",
+            "outfits/MikiNikaidou/2.png",
+            "outfits/MikiNikaidou/3.png"
+        ]
+    },
+    "Ichihime": {
+        "jp": "一姫",
+        "icon": "icons/Ichihime.png",
+        "age": "未知",
+        "bday": "1/11",
+        "height": "154cm",
+        "date": "2019-04-25",
+        "color": "#F75C52",
+        "outfit": [
+            "outfits/Ichihime/0.png",
+            "outfits/Ichihime/1.png",
+            "outfits/Ichihime/2.png",
+            "outfits/Ichihime/3.png",
+            "outfits/Ichihime/4.png"
+        ]
+    }
+}
