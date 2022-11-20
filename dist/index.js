@@ -6,6 +6,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const cheerio_1 = __importDefault(require("cheerio"));
 const axios_1 = __importDefault(require("axios"));
 const fs_1 = __importDefault(require("fs"));
+if (!fs_1.default.existsSync('out')) {
+    fs_1.default.mkdirSync('out');
+}
 const baseUrl = 'https://mahjongsoul.club/content/';
 const content = '%E9%9B%80%E5%A3%AB-0';
 const queryEn = '?language=en';
@@ -31,7 +34,7 @@ axios_1.default.get(baseUrl + content + queryEn).then(res => {
             $$('#block-views-slick-x-block-24').find('img').each((i, el) => {
                 female[name].outfit.push($$(el).data('src').replace('h300', 'juicebox_small'));
             });
-            fs_1.default.writeFileSync('data.json', JSON.stringify(female, null, 4));
+            fs_1.default.writeFileSync('out/data.json', JSON.stringify(female, null, 4));
         });
     });
 });
