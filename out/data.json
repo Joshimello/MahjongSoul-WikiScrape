@@ -1,0 +1,672 @@
+{
+    "TokiOnjoji": {
+        "jp": "園城寺怜",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_150.png?itok=JAOtVy2s",
+        "age": "高3",
+        "bday": "5/10",
+        "height": "154cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_780.png?itok=xHrkPIFW",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_781.png?itok=qoYQPM-u",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_776.png?itok=_zGeU5Tx"
+        ]
+    },
+    "AkoAtarashi": {
+        "jp": "新子憧",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_149.png?itok=sYuvQoI9",
+        "age": "高1",
+        "bday": "5/17",
+        "height": "149cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_777.png?itok=UL5KM0Ht",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_778.png?itok=kOWNA7gf",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_773.png?itok=ViOW2Doq"
+        ]
+    },
+    "MihokoFukuji": {
+        "jp": "福路美穂子",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_131.png?itok=UtkI2wEp",
+        "age": "高3",
+        "bday": "9/24",
+        "height": "158cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_774.png?itok=lllOrNq1",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_775.png?itok=jvAEqcFH",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_513.png?itok=qPM58xIw"
+        ]
+    },
+    "HisaTakei": {
+        "jp": "竹井久",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_362.png?itok=1sa8kSD3",
+        "age": "高3",
+        "bday": "11/13",
+        "height": "164cm",
+        "date": "2022-11-16",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_525.png?itok=QxoXl2UG",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_772.png?itok=qvFO45Mt",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_355.png?itok=ZJ3TAaMH"
+        ]
+    },
+    "LilyKitahara": {
+        "jp": "北原リリィ",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_153.png?itok=LZU-9RCe",
+        "age": "27歳",
+        "bday": "1/31",
+        "height": "163cm",
+        "date": "2022-08-10",
+        "color": "#406EAA",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_479.png?itok=Lk1x6UJh",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_501.png?itok=gSFTxt8X"
+        ]
+    },
+    "Yuzu": {
+        "jp": "ゆず",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_139.png?itok=ehUCCkts",
+        "age": "18歳",
+        "bday": "8/21",
+        "height": "141cm",
+        "date": "2022-06-22",
+        "color": "#9CC89B",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_477.png?itok=iwXr_MR8",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_468.png?itok=OvKQypwu"
+        ]
+    },
+    "KeiShirogane": {
+        "jp": "白銀圭",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_141.png?itok=pNxRQrsk",
+        "age": "中2",
+        "bday": "8/1",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_465.png?itok=ry6jPlB7",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_261.png?itok=1DR4HSbo",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_470.png?itok=BmPz7UoU"
+        ]
+    },
+    "AiHayasaka": {
+        "jp": "早坂愛",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_140.png?itok=JkiC8Ml7",
+        "age": "高2",
+        "bday": "4/2",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_463.png?itok=aTuS4a4L",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_469.png?itok=-vil1ILX",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_466.png?itok=wAJp4TIU"
+        ]
+    },
+    "KaguyaShinomiya": {
+        "jp": "四宮かぐや",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_315.png?itok=6EjoDsPk",
+        "age": "高2",
+        "bday": "1/1",
+        "height": "",
+        "date": "2022-04-27",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_456.png?itok=9GMGdLpw",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_462.png?itok=iGqlFhzB",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_459.png?itok=PiCaBIgk"
+        ]
+    },
+    "NanahaOnodera": {
+        "jp": "小野寺七羽",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_176.png?itok=PNte6dkc",
+        "age": "19歳",
+        "bday": "7/20",
+        "height": "166cm",
+        "date": "2022-01-26",
+        "color": "#5D95B6",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_457.png?itok=EDxdRd7a",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_458.png?itok=-vMGYU9d"
+        ]
+    },
+    "KazuhaSaionji": {
+        "jp": "西園寺一羽",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_180.png?itok=S-QNLof1",
+        "age": "23歳",
+        "bday": "11/22",
+        "height": "156cm",
+        "date": "2021-12-22",
+        "color": "#A2D5FD",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_450.png?itok=C86z03qX",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_454.png?itok=55bKJiwz"
+        ]
+    },
+    "AyakoMorikawa": {
+        "jp": "森川綾子",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_127.png?itok=yD_Ssnok",
+        "age": "15歳",
+        "bday": "2/22",
+        "height": "150cm",
+        "date": "2021-08-26",
+        "color": "#8D86B2",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_440.png?itok=5PS14n9H",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_433.png?itok=V1ZWpcI1",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_451.png?itok=cmPSpe-o"
+        ]
+    },
+    "HibikiHimekawa": {
+        "jp": "姫川響",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_121.png?itok=66ket6Oc",
+        "age": "16歳",
+        "bday": "5/26",
+        "height": "160cm",
+        "date": "2021-07-28",
+        "color": "#6B84CC",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_434.png?itok=OHmog0no",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_430.png?itok=0CEds5wG"
+        ]
+    },
+    "ReinaNanami": {
+        "jp": "七海礼奈",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_129.png?itok=VmE4VWGi",
+        "age": "15歳",
+        "bday": "3/21",
+        "height": "153cm",
+        "date": "2021-05-26",
+        "color": "#6E7FB9",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_447.png?itok=TgCw54m0",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_428.png?itok=0as3QrhB",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_418.png?itok=kddGMUFf"
+        ]
+    },
+    "KirariMomobami": {
+        "jp": "桃喰綺羅莉",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_119.png?itok=CbaoNvX2",
+        "age": "高3",
+        "bday": "",
+        "height": "166cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_441.png?itok=m2NG840c",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_424.png?itok=xWTyChqW",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_414.png?itok=ivDGQD_P"
+        ]
+    },
+    "MidariIkishima": {
+        "jp": "生志摩妄",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_103.png?itok=yh4L0KFM",
+        "age": "高2",
+        "bday": "",
+        "height": "170cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_416.png?itok=M1fCopVL",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_420.png?itok=GmCj-gFX",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_410.png?itok=zNihI0J_"
+        ]
+    },
+    "MarySaotome": {
+        "jp": "早乙女芽亜里",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_105.png?itok=rhK5PRrT",
+        "age": "高2",
+        "bday": "",
+        "height": "162cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_443.png?itok=VFKxpPLE",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_406.png?itok=yLBT_FT9",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_412.png?itok=v-AVXx7O"
+        ]
+    },
+    "YumekoJabami": {
+        "jp": "蛇喰夢子",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_92.png?itok=0YiG0Fnu",
+        "age": "高2",
+        "bday": "",
+        "height": "166cm",
+        "date": "2021-04-22",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_439.png?itok=TR3LqD8U",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_497.png?itok=UGUDGcgW",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_402.png?itok=naPFTafB"
+        ]
+    },
+    "FuJi": {
+        "jp": "福姫",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_123.png?itok=4RuNNDXF",
+        "age": "不明",
+        "bday": "1/1",
+        "height": "160cm",
+        "date": "2021-02-06",
+        "color": "#A78ACF",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_394.png?itok=ui2Y8wKx",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_437.png?itok=wE3soH8k",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_400.png?itok=xy4K758j"
+        ]
+    },
+    "TeruMiyanaga": {
+        "jp": "宮永照",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_96.png?itok=jgHg27Jj",
+        "age": "高3",
+        "bday": "2/18",
+        "height": "160cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_390.png?itok=ADWwG97e",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_435.png?itok=DlFxozyj",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_396.png?itok=kV3e3fo0",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_784.png?itok=Eslm6rWU"
+        ]
+    },
+    "KoromoAmae": {
+        "jp": "天江衣",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_94.png?itok=JXxd2Q__",
+        "age": "高2",
+        "bday": "9/6",
+        "height": "127cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_387.png?itok=xuKyk-ek",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_392.png?itok=_gpvlRI3",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_269.png?itok=3Y-5UHsp",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_783.png?itok=ofTL0JFT"
+        ]
+    },
+    "NodokaHaramura": {
+        "jp": "原村和",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_360.png?itok=mgPRM926",
+        "age": "高1",
+        "bday": "10/4",
+        "height": "154cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_485.png?itok=I1FTEYso",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_383.png?itok=-spYw6us",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_431.png?itok=yAqS_0wg",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_782.png?itok=rM3rD3hf"
+        ]
+    },
+    "SakiMiyanaga": {
+        "jp": "宮永咲",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_343.png?itok=2QllGzWy",
+        "age": "高1",
+        "bday": "10/27",
+        "height": "155cm",
+        "date": "2021-01-15",
+        "color": "",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_429.png?itok=gBlhIcnf",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_389.png?itok=YpqH0y2S",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_427.png?itok=8NYDLBIE",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_779.png?itok=T6KnPvmn"
+        ]
+    },
+    "ChihoriTerasaki": {
+        "jp": "寺崎千穂理",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_90.png?itok=VFy6V6Ad",
+        "age": "26歳",
+        "bday": "11/15",
+        "height": "167cm",
+        "date": "2020-11-19",
+        "color": "#9F6B44",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_385.png?itok=TIyOEPBS",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_379.png?itok=4xvkCrz4",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_690.png?itok=JgbaCQ5Z"
+        ]
+    },
+    "Eliisa": {
+        "jp": "エリサ",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_162.png?itok=tGfBvRJL",
+        "age": "17歳",
+        "bday": "7/15",
+        "height": "162cm",
+        "date": "2020-11-19",
+        "color": "#7E9265",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_248.png?itok=qjTgiXor",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_381.png?itok=UYV56B7r",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_371.png?itok=k17d923P",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_375.png?itok=kMMXmYZG"
+        ]
+    },
+    "Kaguyahime": {
+        "jp": "かぐや姫",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_117.png?itok=8cs18reT",
+        "age": "不明",
+        "bday": "6/18",
+        "height": "161cm",
+        "date": "2020-08-20",
+        "color": "#E44FBB",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_365.png?itok=2xiJwAWj",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_344.png?itok=q3XlxhIX",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_121.png?itok=pH81HoIC",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_398.png?itok=3Sp1dGQT"
+        ]
+    },
+    "KiraraFujimoto": {
+        "jp": "藤本キララ",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_113.png?itok=fGux_rVs",
+        "age": "18歳",
+        "bday": "11/27",
+        "height": "164cm",
+        "date": "2020-08-20",
+        "color": "#EBBDB0",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_361.png?itok=vI0Ul6P2",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_419.png?itok=L1yxZi_F",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_281.png?itok=K-5fhuKj",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_294.png?itok=fOjyxD_g"
+        ]
+    },
+    "MomoHina": {
+        "jp": "雛桃",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_82.png?itok=zTIZ3gpa",
+        "age": "11歳",
+        "bday": "6/6",
+        "height": "133cm",
+        "date": "2020-06-24",
+        "color": "#BDCEF8",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_293.png?itok=M8_Bbd-P",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_415.png?itok=y3z4Nll6",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_413.png?itok=u7HOW6nQ",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_290.png?itok=_1C_2qCO"
+        ]
+    },
+    "SawakoKitami": {
+        "jp": "北見紗和子",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_84.png?itok=A5FGIDIP",
+        "age": "32歳",
+        "bday": "10/15",
+        "height": "160cm",
+        "date": "2020-04-25",
+        "color": "#BEB3B1",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_268.png?itok=Fo5kjbno",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_289.png?itok=5XKL8Z5j",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_284.png?itok=boXeRQRf",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_286.png?itok=Lgbha0x3"
+        ]
+    },
+    "AnjuSuzumiya": {
+        "jp": "涼宮杏樹",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_78.png?itok=ZNYAGbfp",
+        "age": "14歳",
+        "bday": "5/16",
+        "height": "148cm",
+        "date": "2019-12-30",
+        "color": "#DF92AB",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_405.png?itok=044MzMIn",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_257.png?itok=V5SPjdKv",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_283.png?itok=L02UubqC",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_267.png?itok=3_Wuquhp"
+        ]
+    },
+    "HarunaIgarashi": {
+        "jp": "五十嵐陽菜",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_76.png?itok=CEsF-Ww5",
+        "age": "11歳",
+        "bday": "11/24",
+        "height": "134cm",
+        "date": "2019-12-30",
+        "color": "#BBF2F5",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_277.png?itok=LPyOfdLY",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_195.png?itok=frPzlUC3",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_246.png?itok=FiMwmcab",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_417.png?itok=9jYokY9G"
+        ]
+    },
+    "HinataTakanashi": {
+        "jp": "小鳥遊雛田",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_73.png?itok=snTvCdoB",
+        "age": "20歳",
+        "bday": "6/28",
+        "height": "155cm",
+        "date": "2019-10-31",
+        "color": "#9F9AC4",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_279.png?itok=e1xa2d30",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_401.png?itok=VTW4AgSr",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_162.png?itok=RVo41PUo",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_275.png?itok=AryPyTFp",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_256.png?itok=nE5NfUhD"
+        ]
+    },
+    "NanaShiraishi": {
+        "jp": "白石奈々",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_66.png?itok=C9Xb52o1",
+        "age": "17歳",
+        "bday": "5/31",
+        "height": "167cm",
+        "date": "2019-10-31",
+        "color": "#79B100",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_399.png?itok=O-Rq0Qg9",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_273.png?itok=8L3pWYGM",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_276.png?itok=59YmpGcf"
+        ]
+    },
+    "HanaNinomiya": {
+        "jp": "二之宮花",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_70.png?itok=CYlcClt_",
+        "age": "17歳",
+        "bday": "7/12",
+        "height": "155cm",
+        "date": "2019-08-15",
+        "color": "#B23E44",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_272.png?itok=C-UaDZwE",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_481.png?itok=OhKKu2I-",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_274.png?itok=cFHpx98D",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_397.png?itok=q3LWPoLx"
+        ]
+    },
+    "Sara": {
+        "jp": "サラ",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_68.png?itok=_QeojiqX",
+        "age": "19歳",
+        "bday": "9/25",
+        "height": "158cm",
+        "date": "2019-08-15",
+        "color": "#9B59B6",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_280.png?itok=Ekt481yM",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_395.png?itok=R-Ko1iLi",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_22.png?itok=ugH7SWpu",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_266.png?itok=JUDFpVVq",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_247.png?itok=cDmCJY0b"
+        ]
+    },
+    "Keikumusume": {
+        "jp": "軽庫娘",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_155.png?itok=62Db8Of0",
+        "age": "17歳",
+        "bday": "9/9",
+        "height": "159cm",
+        "date": "2019-08-15",
+        "color": "#2E70BA",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_393.png?itok=ViSylnkR",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_264.png?itok=vQ3gvz63",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_270.png?itok=xyGwPn7-"
+        ]
+    },
+    "Kaavi": {
+        "jp": "カーヴィ",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_326.png?itok=GKS2RA_u",
+        "age": "24歳",
+        "bday": "10/12",
+        "height": "165cm",
+        "date": "2019-05-31",
+        "color": "#A2837F",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_67.png?itok=nkwfin-_",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_253.png?itok=Mb3QQorM",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_384.png?itok=oN98_HF3"
+        ]
+    },
+    "Xenia": {
+        "jp": "ジニア",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_147.png?itok=MwVydL4v",
+        "age": "17歳",
+        "bday": "2/2",
+        "height": "158cm",
+        "date": "2019-05-31",
+        "color": "#B1A387",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_251.png?itok=yDN8ESw1",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_482.png?itok=4ZVrBhuf",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_51.png?itok=pTfHbSrY",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_382.png?itok=G0wgtoDn"
+        ]
+    },
+    "RiuKujou": {
+        "jp": "九条璃雨",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_300.png?itok=YnMFVePB",
+        "age": "19歳",
+        "bday": "11/29",
+        "height": "161cm",
+        "date": "2019-04-25",
+        "color": "#FA5491",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_407.png?itok=6C-F-_Tn",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_495.png?itok=rF1Dkk-s",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_245.png?itok=bGKmA3I8",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_254.png?itok=t94LvIS-",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_380.png?itok=s8l4krwl"
+        ]
+    },
+    "YuiYagi": {
+        "jp": "八木唯",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_184.png?itok=POPqM1s7",
+        "age": "19歳",
+        "bday": "9/7",
+        "height": "162cm",
+        "date": "2019-04-25",
+        "color": "#B6B55D",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_250.png?itok=X5Vu4wBD",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_378.png?itok=EnWbHNwq",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_244.png?itok=ci7UzRT2",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_243.png?itok=4N6XdRSO",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_252.png?itok=cBvO8yWp",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_376.png?itok=TgPbMqKP"
+        ]
+    },
+    "Nadeshiko": {
+        "jp": "撫子",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_314.png?itok=KqLOio98",
+        "age": "28歳",
+        "bday": "8/14",
+        "height": "175cm",
+        "date": "2019-04-25",
+        "color": "#5D7AD0",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_480.png?itok=4IkJMXbr",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_211.png?itok=R3l45e1B",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_374.png?itok=8TjTgHOX",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_230.png?itok=tikSuTuT"
+        ]
+    },
+    "MaiAihara": {
+        "jp": "相原舞",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_16.png?itok=8CLUmHdy",
+        "age": "18歳",
+        "bday": "6/26",
+        "height": "165cm",
+        "date": "2019-04-25",
+        "color": "#FF956E",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_47.png?itok=MKGPaHeK",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_370.png?itok=LZbFQ8-U",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_372.png?itok=Wal5CN_k",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_193.png?itok=MPH2fTsA",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_771.png?itok=RcvTdT9P"
+        ]
+    },
+    "ChioriMikami": {
+        "jp": "三上千織",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_182.png?itok=Im6Uouli",
+        "age": "14歳",
+        "bday": "5/23",
+        "height": "143cm",
+        "date": "2019-04-25",
+        "color": "#F5D1AF",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_196.png?itok=LHS5VwQ6",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_356.png?itok=zMVgxPQE",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_364.png?itok=MK4dVN7M",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_118.png?itok=qIEYZNRA",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_130.png?itok=wJBWh7ax"
+        ]
+    },
+    "KanaFujita": {
+        "jp": "藤田佳奈",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_142.png?itok=J_Gy0AX-",
+        "age": "17歳",
+        "bday": "4/27",
+        "height": "159cm",
+        "date": "2019-04-25",
+        "color": "#F1A4B2",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_484.png?itok=g-O24TBu",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_369.png?itok=-GP0n-At",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_139.png?itok=N0kxxDnH",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_338.png?itok=2Gk0f5mp"
+        ]
+    },
+    "MikiNikaidou": {
+        "jp": "二階堂美樹",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_32.png?itok=K3p5fv5p",
+        "age": "24歳",
+        "bday": "2/14",
+        "height": "168cm",
+        "date": "2019-04-25",
+        "color": "#B76EC2",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_329.png?itok=rculXUvS",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_337.png?itok=1EQUNvR0",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_312.png?itok=i6tWApqd",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_326.png?itok=x35AIp2X"
+        ]
+    },
+    "Ichihime": {
+        "jp": "一姫",
+        "icon": "https://mahjongsoul.club/sites/default/files/styles/large/public/bighead_340.png?itok=P-ZEocyZ",
+        "age": "未知",
+        "bday": "1/11",
+        "height": "154cm",
+        "date": "2019-04-25",
+        "color": "#F75C52",
+        "outfit": [
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_472.png?itok=cIO-K7wf",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_473.png?itok=6jDy2APA",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_34.png?itok=Y5OqaFSa",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_219.png?itok=dhPUgpRz",
+            "https://mahjongsoul.club/sites/default/files/styles/juicebox_small/public/full_224.png?itok=Vmb9ASHd"
+        ]
+    }
+}
