@@ -12,7 +12,7 @@ console.log(localdata['AnjuSuzumiya'].outfit)
 // ["outfits/AnjuSuzumiya/0.png", ...]
 ```
 
-Using remote images:
+Using remote images:  
 Just copy the [data.json](https://github.com/Joshimello/MahjongSoul-WikiScrape/blob/main/out/data.json) file to your project and use it however you want.
 
 Example usage:
