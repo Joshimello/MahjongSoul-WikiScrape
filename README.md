@@ -8,7 +8,7 @@ Just copy the [data.json](https://github.com/Joshimello/MahjongSoul-WikiScrape/b
 Example usage:
 ```javascript
 const data = JSON.parse(fs.readFileSync('data.json', 'utf8'))
-console.log(data[AnjuSuzumiya].jp)
+console.log(data['AnjuSuzumiya'].jp)
 // 涼宮杏樹
 ```
 
@@ -22,5 +22,5 @@ console.log(data[AnjuSuzumiya].jp)
 - scrape images.
 
 ## Contribute
-Always welcomed to improve anything or add suggestions! 
+Always welcomed to improve anything or add suggestions!  
 Of course reading this already makes me happy enough uwu~
