@@ -1,6 +1,7 @@
 # MahjongSoul-WikiScrape
 Data & Outfit scraper for the [Mahjong Soul Wiki](https://mahjongsoul.club/characters/list).  
 Wanted to do something with TypeScript so i made this :>  
+[Little gallery](https://joshimello.github.io/MahjongSoul-WikiScrape/) just for fun
 
 ## Usage
 Using local images:  
